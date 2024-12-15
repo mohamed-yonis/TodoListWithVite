@@ -1,0 +1,34 @@
+.con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conatiner{
+    margin-top: 20px;
+  background-color: rgba(219, 212, 212, 0.464);
+  width: 300px;
+  height: 500px;
+  padding: 0 0 30px 30px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    width: 270px;
+    padding: 10px;
+    border: none;
+}
+button{
+    position: relative;
+    padding: 9px 18px;
+    color: white;
+    border: none;
+    background-color: green;
+    border-radius: 2px;
+    font-weight: bold;
+    bottom: 34px;
+    left: 246px;
+}
